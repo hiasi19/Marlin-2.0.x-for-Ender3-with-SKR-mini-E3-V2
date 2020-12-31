@@ -1,3 +1,3 @@
 Precompiled firmware\
-Made for Ender 3 Pro with with the Creality Ultrabase Style printbed\
+Made for the Ender 3 Pro with with Ultrabase Style printbed\
 BLtouch mount used: https://www.thingiverse.com/thing:3003725  
